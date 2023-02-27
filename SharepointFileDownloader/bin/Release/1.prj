@@ -1,0 +1,7 @@
+<Project id="5de7d931-29b7-c548-4aa1-8b55513af02d" name="TrackingMasterNew" location="https://dayonetechcom.sharepoint.com/sites/RedPeTT/Shared%20Documents/Class10/Project/" description="" schemaVersion="102" epiVersion="" createDate="12/09/2022 13:27:49" useMetadataDbForCollectedData="" useBackgroundOnAllPages="False">
+  <CollectedData>
+    <Database connectionString="G2nJ7gGjZ7+ALt3RAt1o1nR3xp3Vz1CdVtL7Iw3oYem25eAF0uiTOH1qTMMCT1R6OH4t04aZ+UAgV0koPPsf6PqEpXXSFYU9/9RyxPp8mMn60mHohzb4HXJDoad1gdlLPBqdVPHvNIAPslTccKqW/9upuIyZHEL4Iv6lyNTvE8Y=" dataDriver="Epi.Data.SqlServer.SqlDBFactory, Epi.Data.SqlServer" />
+  </CollectedData>
+  <Metadata source="2" />
+  <EnterMakeviewInterpreter source="Epi.Core.EnterInterpreter" />
+</Project>
